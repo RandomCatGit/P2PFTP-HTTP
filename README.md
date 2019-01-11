@@ -1,4 +1,4 @@
-# P2PFTP-HTTP
+# P2P FTP/HTTP
 A simple Peer to Peer file transfer tool over HTTP.
 
 There comes a problem when sharing a file either small or big between to computers in the same network or a company where the file cannot be shared simply in an email or through common shared drive due to file type restriction or file size limitation or unavailability of space for sharing through shared memory spaces.
