@@ -7,4 +7,4 @@ This tool allows the user to generate a simple URI that automatically fetches th
 
 After generating the file download link, simply send it to the recipients who can open the link in their browser to download the file.
 
-Download the latest exe: <a href="/RandomCatGit/P2PFTP-HTTP/blob/master/p2pft/exe/P2PFTPHTTP.exe?raw=true">P2PFTPHTTP.exe</a>
+Download the latest exe: <a href="https://github.com/RandomCatGit/P2PFTP-HTTP/blob/master/p2pft/exe/P2PFTPHTTP.exe?raw=true">P2PFTPHTTP.exe</a>
