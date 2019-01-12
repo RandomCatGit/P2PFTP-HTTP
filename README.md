@@ -6,3 +6,5 @@ There comes a problem when sharing a file either small or big between to compute
 This tool allows the user to generate a simple URI that automatically fetches the required files, how big the file may be, over the local network direcly from the user's disk.
 
 After generating the file download link, simply send it to the recipients who can open the link in their browser to download the file.
+
+Download the latest exe: <a href="/RandomCatGit/P2PFTP-HTTP/blob/master/p2pft/exe/P2PFTPHTTP.exe?raw=true">P2PFTPHTTP.exe</a>
